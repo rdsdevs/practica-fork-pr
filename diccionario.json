@@ -13,5 +13,10 @@
     "termino": "Variable",
     "definicion": "Espacio en memoria reservado para almacenar un valor que puede cambiar durante la ejecución de un programa.",
     "autor": "!🆖 LUIS T😎NCEL"
+  },
+  {
+    "termino": "java",
+    "definicion": "Java es un lenguaje de programación de alto nivel, orientado a objetos y multiplataforma",
+    "autor": "! HECTOR BARRIOS"
   }
 ]
