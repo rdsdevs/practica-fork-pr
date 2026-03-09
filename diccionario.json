@@ -13,5 +13,10 @@
     "termino": "Variable",
     "definicion": "Espacio en memoria reservado para almacenar un valor que puede cambiar durante la ejecución de un programa.",
     "autor": "!🆖 LUIS T😎NCEL"
+  },
+  {
+    "termino": "JavaScript",
+    "definicion": "Es un lenguaje de programación interpretado, orientado a objetos y de alto nivel, esencial para crear sitios web interactivos y dinámicos.",
+    "autor": "Cesar Herrera"
   }
 ]
