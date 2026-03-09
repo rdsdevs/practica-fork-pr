@@ -13,5 +13,14 @@
     "termino": "Variable",
     "definicion": "Espacio en memoria reservado para almacenar un valor que puede cambiar durante la ejecución de un programa.",
     "autor": "!🆖 LUIS T😎NCEL"
+  },
+  {
+    "termino": "for",
+    "definicion": "Estructura de control que permite repetir un bloque de código un número determinado de veces.",
+    "autor": "Wilson Mozo"
+
   }
+
+
 ]
+
