@@ -19,5 +19,10 @@
     "definicion": "Es un lenguaje de programación interpretado. Se define como orientado a objetos,​ basado en prototipos, imperativo, débilmente tipado y dinámico.",
     "autor": "ISRAELDAVIDGUERRAGIL"
   }
-  
+  ,
+  {
+    "termino": "Pascal",
+    "definicion": "Pascal es un lenguaje de programación creado por el profesor suizo Niklaus Wirth entre los años 1968 y 1969, y publicado en 1970.",
+    "autor": "ISRAELDAVIDGUERRAGIL"
+  }
 ]
