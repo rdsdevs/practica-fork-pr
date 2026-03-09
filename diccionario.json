@@ -13,5 +13,10 @@
     "termino": "Variable",
     "definicion": "Espacio en memoria reservado para almacenar un valor que puede cambiar durante la ejecución de un programa.",
     "autor": "!🆖 LUIS T😎NCEL"
+  },
+  {
+    "termino":"Sintaxis",
+    "definicion": "La sintaxis son las reglas que debes seguir para escribir código correctamente, para que el programa lo entienda.",
+    "autor": "AYLIN CANTILLO"
   }
 ]
