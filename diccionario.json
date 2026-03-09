@@ -13,5 +13,10 @@
     "termino": "Variable",
     "definicion": "Espacio en memoria reservado para almacenar un valor que puede cambiar durante la ejecución de un programa.",
     "autor": "!🆖 LUIS T😎NCEL"
+  },
+  {
+    "termino": "Html",
+    "definicion": "es el lenguaje estándar utilizado para crear y estructurar contenido en páginas web.",
+    "autor": "AndersonMarulanda"
   }
 ]
