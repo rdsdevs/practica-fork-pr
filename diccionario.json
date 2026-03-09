@@ -14,4 +14,9 @@
     "definicion": "Espacio en memoria reservado para almacenar un valor que puede cambiar durante la ejecución de un programa.",
     "autor": "!🆖 LUIS T😎NCEL"
   }
+  {
+    "termino": "slicing",
+    "definicion": "El slicing (rebanado) en Python es una técnica eficiente para extraer partes de secuencias (listas, tuplas, cadenas) sin usar bucles",
+    "autor": "Jose carlos Torres"
+  }
 ]
