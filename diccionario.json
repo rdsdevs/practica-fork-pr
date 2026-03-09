@@ -13,5 +13,10 @@
     "termino": "Variable",
     "definicion": "Espacio en memoria reservado para almacenar un valor que puede cambiar durante la ejecución de un programa.",
     "autor": "!🆖 LUIS T😎NCEL"
-  }
+  },
+  {
+  "termino": "API",
+  "definicion": "Mecanismo que permite la comunicación entre aplicaciones.",
+  "autor": "Tu Nombre"
+  } 
 ]
