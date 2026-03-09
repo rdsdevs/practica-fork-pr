@@ -13,5 +13,11 @@
     "termino": "Variable",
     "definicion": "Espacio en memoria reservado para almacenar un valor que puede cambiar durante la ejecución de un programa.",
     "autor": "!🆖 LUIS T😎NCEL"
-  }
+  },
+ {
+  "termino": "C++",
+  "definicion": "Lenguaje de programación de propósito general, orientado a objetos y ampliamente usado para aplicaciones de alto rendimiento como videojuegos, sistemas operativos y software embebido.",
+  "autor": "Juan Diaz"
+}
+
 ]
