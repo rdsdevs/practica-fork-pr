@@ -24,5 +24,10 @@
     "termino": "Pascal",
     "definicion": "Pascal es un lenguaje de programación creado por el profesor suizo Niklaus Wirth entre los años 1968 y 1969, y publicado en 1970.",
     "autor": "ISRAELDAVIDGUERRAGIL"
+  },
+  {
+    "termino": "sql",
+    "definicion": "es el lenguaje estándar utilizado para interactuar con bases de datos relacionales. Permite realizar tareas como consultar, insertar, actualizar y eliminar datos (CRUD) en filas y columnas, así como administrar estructuras de tablas y permisos. Es fundamental en análisis de datos y backend.",
+    "autor": "HECTOR BARRIOS"
   }
 ]
