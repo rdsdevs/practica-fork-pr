@@ -25,4 +25,10 @@
     "definicion": "Pascal es un lenguaje de programación creado por el profesor suizo Niklaus Wirth entre los años 1968 y 1969, y publicado en 1970.",
     "autor": "ISRAELDAVIDGUERRAGIL"
   }
+  ,
+  {
+    "termino": "Kernel",
+    "definicion": "Es el principal responsable de facilitar a los distintos programas acceso seguro al hardware de la computadora, o, en forma básica, es el encargado de gestionar recursos, a través de servicios de llamada al sistema",
+    "autor": "ISRAELDAVIDGUERRAGIL"
+  }
 ]
