@@ -24,5 +24,10 @@
     "termino": "Pascal",
     "definicion": "Pascal es un lenguaje de programación creado por el profesor suizo Niklaus Wirth entre los años 1968 y 1969, y publicado en 1970.",
     "autor": "ISRAELDAVIDGUERRAGIL"
+  },
+  {
+    "termino": "lenguajes",
+    "definicion": "son herramientas fundamentales con reglas sintácticas y semánticas que permiten a los desarrolladores crear software ",
+    "autor": "ian solano"
   }
 ]
