@@ -24,5 +24,10 @@
     "termino": "Pascal",
     "definicion": "Pascal es un lenguaje de programación creado por el profesor suizo Niklaus Wirth entre los años 1968 y 1969, y publicado en 1970.",
     "autor": "ISRAELDAVIDGUERRAGIL"
+  },
+    {
+    "termino": "Java",
+    "definicion": "Java es un lenguaje de programación orientado a objetos, de alto nivel y multiplataforma, diseñado por Sun Microsystems en 1995 para ser seguro, robusto y portable",
+    "autor": "Jose de los santos"
   }
 ]
