@@ -30,4 +30,9 @@
     "definicion": "Secuencia ordenada, finita y definida de pasos o instrucciones para resolver un problema, realizar un calculo o ejecutar una tarea específica",
     "autor": "Yordis Ferreira"
   }
+  {
+    "termino": "slicing",
+    "definicion": "El slicing (rebanado) en Python es una técnica eficiente para extraer partes de secuencias (listas, tuplas, cadenas) sin usar bucles",
+    "autor": "Jose carlos Torres"
+  }
 ]
